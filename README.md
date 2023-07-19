@@ -1,6 +1,6 @@
-# edutainment-game
+# Edutainment iOS Application
 Children's educational game to assist in learning multiplication tables.
-Beginner Swift project built in Xcode. 
+Beginner Swift iOS application built in Xcode.
 
 
 # Settings Screen
